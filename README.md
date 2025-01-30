@@ -19,3 +19,9 @@ Inteligência Artificial (IA) é um campo da computação que desenvolve sistema
 - Previsão
 - Otimização
 - Aproximações
+
+#### Esquema 
+
+![Imagem1](https://github.com/user-attachments/assets/88d12c6d-8c0c-4030-bcb5-ffc0c4e989af)
+
+![Captura de tela 2025-01-30 120847](https://github.com/user-attachments/assets/4b535887-423d-4fc0-8cb8-d2183d54b1ac)
