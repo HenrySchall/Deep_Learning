@@ -20,8 +20,10 @@ Inteligência Artificial (IA) é um campo da computação que desenvolve sistema
 - Otimização
 - Aproximações
 
-#### Esquema 
+### Mapa Mental 
 
-![Imagem1](https://github.com/user-attachments/assets/88d12c6d-8c0c-4030-bcb5-ffc0c4e989af)
+![Captura de tela 2025-01-30 121953](https://github.com/user-attachments/assets/2ba2b977-8aab-4989-b1c3-15e6de2b2e71)
 
 ![Captura de tela 2025-01-30 120847](https://github.com/user-attachments/assets/4b535887-423d-4fc0-8cb8-d2183d54b1ac)
+
+![Captura de tela 2025-01-30 121334](https://github.com/user-attachments/assets/fb66b304-3e57-440b-8e34-d7a10e537867)
