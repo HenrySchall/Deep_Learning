@@ -36,6 +36,4 @@
 
 ![NeuralNetworkZoo20042019-1400x2380_page-0001](https://github.com/user-attachments/assets/237460b3-6b49-49fd-95d1-59813e91c74f)
 
-Referência: https://www.asimovinstitute.org/neural-network-zoo/
-
 
