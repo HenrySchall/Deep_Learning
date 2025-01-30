@@ -32,6 +32,8 @@
 
 > Os modelos de redes neurais, utilizam-se de um neurônio artificial, que tem seu funcionamento semelhante aos neurônios biológicos. A primeira etapa são os sinais de entrada, que são os dados recebidos pelo neurônio, podendo ser valores numéricos, que representam características ou variáveis de um problema. Em seguida cada entrada é multiplicada por um peso, que é um valor ajustável, determinando a importância de cada entrada. Após as entradas serem multiplicadas pelos pesos, elas são somadas, gerando um resultado. Esse resultado será aplicado em uma função de ativação (podendo ser linear, sigmoide, ReLU, entre outras), que decide se o neurônio será ativado (gerando uma saída/resposta) ou não.
 
+![Captura de tela 2025-01-30 134623](https://github.com/user-attachments/assets/179d2cfa-34f0-4082-8705-0b748279ae77)
+
 ![NeuralNetworkZoo20042019-1400x2380](https://github.com/user-attachments/assets/ff32d3e5-6b72-4ca6-b1ff-a49b97eed28a)
 
 Referência: https://www.asimovinstitute.org/neural-network-zoo/
