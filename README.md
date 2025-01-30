@@ -34,7 +34,7 @@
 
 ![Captura de tela 2025-01-30 134623](https://github.com/user-attachments/assets/179d2cfa-34f0-4082-8705-0b748279ae77)
 
-![NeuralNetworkZoo20042019-1400x2380](https://github.com/user-attachments/assets/ff32d3e5-6b72-4ca6-b1ff-a49b97eed28a)
+![NeuralNetworkZoo20042019-1400x2380_page-0001](https://github.com/user-attachments/assets/237460b3-6b49-49fd-95d1-59813e91c74f)
 
 Referência: https://www.asimovinstitute.org/neural-network-zoo/
 
