@@ -1,5 +1,6 @@
 ## Neural Networks
-### Introduction
+
+![gerar uma imagem sobre modelos de redes neurais 02-02-2025 at 17-37-01](https://github.com/user-attachments/assets/24089c76-d7f3-4159-a70c-6548fdb97802)
 
 > Artificial Intelligence (AI) is a field of computing that develops systems capable of performing tasks that would normally require human intelligence. This includes learning, reasoning, perception, pattern recognition, and decision-making. It uses algorithms and mathematical models to analyze data and learn from it. Some of the main techniques include:
 
