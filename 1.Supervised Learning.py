@@ -14,6 +14,10 @@ from matplotlib.pylab import rcParams
 import statsmodels.tsa.stattools as sm
 import plotly.express as px
 
+######################
+### Classification ###
+######################
+
 ##################
-### Introdução ###
+### Regression ###
 ##################

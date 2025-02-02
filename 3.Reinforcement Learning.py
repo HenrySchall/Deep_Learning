@@ -15,5 +15,13 @@ import statsmodels.tsa.stattools as sm
 import plotly.express as px
 
 ##################
-### Introdução ###
+### Q-Learning ###
 ##################
+
+#############
+### Sarsa ###
+#############
+
+###########
+### Q(λ)###
+###########

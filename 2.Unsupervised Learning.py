@@ -14,6 +14,19 @@ from matplotlib.pylab import rcParams
 import statsmodels.tsa.stattools as sm
 import plotly.express as px
 
-##################
-### Introdução ###
-##################
+###########################
+### Self Organizing Map ###
+###########################
+
+#########################
+### Boltzman Machines ###
+#########################
+
+####################
+### Autoencoders ###
+####################
+
+#######################################
+### Generative Adversarial Networks ###
+#######################################
+
