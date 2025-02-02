@@ -1,8 +1,4 @@
 ## Neural Networks
-### Bibliographical References:
-- Neural Networks and Deep Learning: A Textbook, by Charu C Aggarwal
-- Perceptrons: An Introduction to Computational Geometry, by Marvin Minsky, Seymour A. Papert
-- Deep Learning (Adaptive Computation and Machine Learning series),by Ian Goodfellow (Author), Yoshua Bengio (Author), Aaron Courville
   
 ![gerar uma imagem sobre modelos de redes neurais 02-02-2025 at 17-37-01](https://github.com/user-attachments/assets/24089c76-d7f3-4159-a70c-6548fdb97802)
 
@@ -40,5 +36,10 @@
 ![Captura de tela 2025-01-30 134623](https://github.com/user-attachments/assets/179d2cfa-34f0-4082-8705-0b748279ae77)
 
 ![NeuralNetworkZoo20042019-1400x2380_page-0001](https://github.com/user-attachments/assets/237460b3-6b49-49fd-95d1-59813e91c74f)
+
+### Bibliographical References:
+- Neural Networks and Deep Learning: A Textbook, by Charu C Aggarwal
+- Perceptrons: An Introduction to Computational Geometry, by Marvin Minsky, Seymour A. Papert
+- Deep Learning (Adaptive Computation and Machine Learning series),by Ian Goodfellow (Author), Yoshua Bengio (Author), Aaron Courville
 
 
