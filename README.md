@@ -23,9 +23,7 @@
 
 ### Mind Map
 
-![Captura de tela 2025-01-30 121953](https://github.com/user-attachments/assets/2ba2b977-8aab-4989-b1c3-15e6de2b2e71)
-
-![Captura de tela 2025-01-30 120847](https://github.com/user-attachments/assets/4b535887-423d-4fc0-8cb8-d2183d54b1ac)
+![Captura de tela 2025-02-02 211904](https://github.com/user-attachments/assets/66557596-954b-425f-a8b8-7a7465d8c60a)
 
 ![Captura de tela 2025-01-30 121334](https://github.com/user-attachments/assets/fb66b304-3e57-440b-8e34-d7a10e537867)
 
