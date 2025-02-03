@@ -1,5 +1,6 @@
 ## Neural Networks
-### Introduction
+  
+![gerar uma imagem sobre modelos de redes neurais 02-02-2025 at 17-37-01](https://github.com/user-attachments/assets/24089c76-d7f3-4159-a70c-6548fdb97802)
 
 > Artificial Intelligence (AI) is a field of computing that develops systems capable of performing tasks that would normally require human intelligence. This includes learning, reasoning, perception, pattern recognition, and decision-making. It uses algorithms and mathematical models to analyze data and learn from it. Some of the main techniques include:
 
@@ -22,11 +23,11 @@
 
 ### Mind Map
 
-![Captura de tela 2025-01-30 121953](https://github.com/user-attachments/assets/2ba2b977-8aab-4989-b1c3-15e6de2b2e71)
+![Captura de tela 2025-02-02 212545](https://github.com/user-attachments/assets/86ea1fcd-69da-4231-a93d-02c5b7a53169)
 
-![Captura de tela 2025-01-30 120847](https://github.com/user-attachments/assets/4b535887-423d-4fc0-8cb8-d2183d54b1ac)
+![Captura de tela 2025-02-02 211904](https://github.com/user-attachments/assets/99124427-7ebe-4673-b8e2-8f32593ada6c)
 
-![Captura de tela 2025-01-30 121334](https://github.com/user-attachments/assets/fb66b304-3e57-440b-8e34-d7a10e537867)
+![Captura de tela 2025-02-02 214126](https://github.com/user-attachments/assets/15c86644-3efa-49b2-a931-f49131fa3b86)
 
 ### Artificial Neuron
 
@@ -35,5 +36,10 @@
 ![Captura de tela 2025-01-30 134623](https://github.com/user-attachments/assets/179d2cfa-34f0-4082-8705-0b748279ae77)
 
 ![NeuralNetworkZoo20042019-1400x2380_page-0001](https://github.com/user-attachments/assets/237460b3-6b49-49fd-95d1-59813e91c74f)
+
+### Bibliographical References:
+- Neural Networks and Deep Learning: A Textbook, by Charu C Aggarwal
+- Perceptrons: An Introduction to Computational Geometry, by Marvin Minsky, Seymour A. Papert
+- Deep Learning (Adaptive Computation and Machine Learning series),by Ian Goodfellow (Author), Yoshua Bengio (Author), Aaron Courville
 
 
