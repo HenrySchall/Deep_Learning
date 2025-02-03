@@ -27,7 +27,7 @@
 
 ![Captura de tela 2025-02-02 211904](https://github.com/user-attachments/assets/99124427-7ebe-4673-b8e2-8f32593ada6c)
 
-![Captura de tela 2025-02-02 213655](https://github.com/user-attachments/assets/f01fb608-da51-4d2d-b88e-f550c0bd07e3)
+![Captura de tela 2025-02-02 214126](https://github.com/user-attachments/assets/15c86644-3efa-49b2-a931-f49131fa3b86)
 
 ### Artificial Neuron
 
