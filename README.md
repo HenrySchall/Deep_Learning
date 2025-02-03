@@ -23,10 +23,11 @@
 
 ### Mind Map
 
-![Captura de tela 2025-02-02 211904](https://github.com/user-attachments/assets/66557596-954b-425f-a8b8-7a7465d8c60a)
+![Captura de tela 2025-02-02 212545](https://github.com/user-attachments/assets/86ea1fcd-69da-4231-a93d-02c5b7a53169)
 
-![Captura de tela 2025-02-02 212545](https://github.com/user-attachments/assets/8d4de1ca-713c-445e-890a-bb767a95c2da)
+![Captura de tela 2025-02-02 211904](https://github.com/user-attachments/assets/99124427-7ebe-4673-b8e2-8f32593ada6c)
 
+![Captura de tela 2025-02-02 213655](https://github.com/user-attachments/assets/f01fb608-da51-4d2d-b88e-f550c0bd07e3)
 
 ### Artificial Neuron
 
