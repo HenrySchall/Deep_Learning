@@ -15,7 +15,7 @@ import statsmodels.tsa.stattools as sm
 import plotly.express as px
 
 ###########################
-### Self Organizing Map ###
+### Self-Organizing Map ###
 ###########################
 
 #########################
