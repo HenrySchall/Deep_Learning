@@ -1,4 +1,4 @@
-## Neural Networks
+## Deep Learning
   
 ![gerar uma imagem sobre modelos de redes neurais 02-02-2025 at 17-37-01](https://github.com/user-attachments/assets/24089c76-d7f3-4159-a70c-6548fdb97802)
 
