@@ -23,11 +23,7 @@
 
 ### Mind Map
 
-![Captura de tela 2025-02-02 212545](https://github.com/user-attachments/assets/86ea1fcd-69da-4231-a93d-02c5b7a53169)
-
-![Captura de tela 2025-02-02 211904](https://github.com/user-attachments/assets/99124427-7ebe-4673-b8e2-8f32593ada6c)
-
-![Captura de tela 2025-02-02 214126](https://github.com/user-attachments/assets/15c86644-3efa-49b2-a931-f49131fa3b86)
+![IMG_2303](https://github.com/user-attachments/assets/3ce63f8d-31e3-443a-b11c-2e2e1810a98a)
 
 ### Artificial Neuron
 
