@@ -15,7 +15,7 @@
 
 ### Mind Map
 
-![IMG_2303](https://github.com/user-attachments/assets/3ce63f8d-31e3-443a-b11c-2e2e1810a98a)
+![IMG_2305](https://github.com/user-attachments/assets/ef35ccc3-ab53-4cb2-a093-fc68e130da5c)
 
 ### Artificial Neuron
 
