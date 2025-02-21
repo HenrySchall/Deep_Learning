@@ -5,7 +5,7 @@
 > Artificial Intelligence (AI) is a field of computing that develops systems capable of performing tasks that would normally require human intelligence. This includes learning, reasoning, perception, pattern recognition, and decision-making. It uses mathematical models to analyze data and learn from it. The existing models are:
 
 * Machine Learning (ML) = Models that allow computers to learn from data and make predictions or decisions without being explicitly programmed to perform these tasks
-* Deep Learning (NM) = Models that use Neural Networks with multiple layers (models inspired by the structure and functioning of the human brain, to model and solve complex problems.
+* Deep Learning (DL) = Models that use Neural Networks with multiple layers (models inspired by the structure and functioning of the human brain, to model and solve complex problems.
 * Generative AI = The intelligence, capable of creating new content, such as text, images, music and even videos, based on patterns learned from existing data.
 
 #### Types of Learning
