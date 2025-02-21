@@ -2,24 +2,16 @@
   
 ![gerar uma imagem sobre modelos de redes neurais 02-02-2025 at 17-37-01](https://github.com/user-attachments/assets/24089c76-d7f3-4159-a70c-6548fdb97802)
 
-> Artificial Intelligence (AI) is a field of computing that develops systems capable of performing tasks that would normally require human intelligence. This includes learning, reasoning, perception, pattern recognition, and decision-making. It uses algorithms and mathematical models to analyze data and learn from it. Some of the main techniques include:
+> Artificial Intelligence (AI) is a field of computing that develops systems capable of performing tasks that would normally require human intelligence. This includes learning, reasoning, perception, pattern recognition, and decision-making. It uses mathematical models to analyze data and learn from it. The existing models are:
 
-* Machine Learning (ML) = Algorithms that perform skills through training, without being explicitly programmed, identifying patterns and making decisions based on data.
-* Neural Networks (NM) = Models inspired by the functioning of neurons in the human brain, that is, a set of interconnected neurons
-* Natural Language Processing (NLP) = Allows machines to understand and generate humanized language.
+* Machine Learning (ML) = Models that allow computers to learn from data and make predictions or decisions without being explicitly programmed to perform these tasks
+* Deep Learning (NM) = Models that use Neural Networks with multiple layers (models inspired by the structure and functioning of the human brain, to model and solve complex problems.
+* Generative AI = The intelligence, capable of creating new content, such as text, images, music and even videos, based on patterns learned from existing data.
 
 #### Types of Learning
 - Supervised = In supervised learning, the model is trained with data that already has the associated responses (labels). In other words, you provide the model with input examples and the respective desired outputs
 - Unsupervised = The model works with data that does not have labels. The goal is to discover hidden patterns or structures (classification) within the data without knowing in advance what the correct outputs are, that is, "no output"
-- Reinforcement learning = In reinforcement learning, the model learns by trial and error, that is, it makes decisions in a dynamic environment, and learns from the feedback it receives, indicating errors, but not providing solutions
-
-#### Use of Models
-- Image recognition
-- Pattern classification
-- Clustering
-- Prediction
-- Optimization
-- Approximations
+- Reinforcement Learning = In reinforcement learning, the model learns by trial and error, that is, it makes decisions in a dynamic environment, and learns from the feedback it receives, indicating errors, but not providing solutions
 
 ### Mind Map
 
