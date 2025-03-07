@@ -1,6 +1,6 @@
 ## Deep Learning
   
-![gerar uma imagem sobre modelos de redes neurais 02-02-2025 at 17-37-01](https://github.com/user-attachments/assets/24089c76-d7f3-4159-a70c-6548fdb97802)
+![Deep Learing](https://github.com/user-attachments/assets/61033d2e-4f9a-4295-b33d-cf20f0708b5d)
 
 > Artificial Intelligence (AI) is a field of computing that develops systems capable of performing tasks that would normally require human intelligence. This includes learning, reasoning, perception, pattern recognition, and decision-making. It uses mathematical models to analyze data and learn from it. The existing models are:
 
